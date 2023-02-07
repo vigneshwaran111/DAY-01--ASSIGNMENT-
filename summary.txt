@@ -1,0 +1,11 @@
+Git is a distributed version control system for software development.
+It tracks changes in source code and allows multiple developers to collaborate on a project by maintaining a history of all modifications.
+It provide features such as branching, merging, and conflict resolution to support efficient and robust collaboration.
+Two or more people built app . 
+For merging the working of different people in team . 
+For consolidating all the work as a single output, Version control system is being used. So GIT is used for the version control 
+GIT is a tool like hard drive or gate keeper or security that has proper access mechanism 
+Why the data being change, why its done and other such information are being recorded Once modifies version can also be changed. 
+It can be also retrieved 
+Distributed is widely have a local copy and can be edited 
+If manually done, it will be taken more time Staging area Collaboration is working as a team
